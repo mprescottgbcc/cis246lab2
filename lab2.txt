@@ -1,0 +1,29 @@
+Script started on Tue 10 Nov 2020 02:33:50 PM EST
+[meg@centos246 cis246lab2]$ mkdir [K[K[K[K[K[Kcd
+[meg@centos246 ~]$ mkdir archive
+mkdir: cannot create directory ‘archive’: File exists
+[meg@centos246 ~]$ cd /var/la[Kog
+[meg@centos246 log]$ [H[J[meg@centos246 log]$ cd
+[meg@centos246 ~]$ pwd
+/home/meg
+[meg@centos246 ~]$ ls
+[0m[01;34marchive[0m  message.txt  [01;34mrepos[0m
+[meg@centos246 ~]$ cd repos
+[meg@centos246 repos]$ ls
+[0m[01;34mcis246lab1[0m  [01;34mcis246lab2[0m
+[meg@centos246 repos]$ git clone https://gitbu[K[Khub.com/mprescottgbcc/cis246lo[Kab2.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd cis246lb[Kab2
+[meg@centos246 cis246lab2]$ git status
+# On branch main
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	lab2.txt
+nothing added to commit but untracked files present (use "git add" to track)
+[meg@centos246 cis246lab2]$ mkdir archive[K[K[K[K[K[K[K[K[K[K[K[K[Kcd
+[meg@centos246 ~]$ mkdir archive
+mkdir: cannot create directory ‘archive’: File exists
+[meg@centos246 ~]$ ls
+[0m[01;34marchive[0m  message.txt  [01;34mrepos[0m
+[meg@centos246 ~]$ exit
+
+Script done on Tue 10 Nov 2020 02:42:17 PM EST
